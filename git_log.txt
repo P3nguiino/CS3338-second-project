@@ -1,0 +1,68 @@
+commit 03cf0c38b88034044ab2beb7879a8ca75297789d
+Merge: 6d1c86d 09f5fb2
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 14:53:27 2026 -0700
+
+    Resolve merge conflict between main and index-fix
+
+commit 09f5fb28ef0b8f0e891d93aa43c01633bc2e18f0
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 14:50:30 2026 -0700
+
+    Add favorite game div
+
+commit 6d1c86d10fb7d5da38224e2b16dfebe6d9d7ca8f
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 14:48:03 2026 -0700
+
+    Add favorite food div
+
+commit 59f1fd0041206a1eaceb8ac412774d178cc8d767
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 14:45:09 2026 -0700
+
+    Add README.md
+
+commit 261ed4d349d6c0502d801198dca94056271caa06
+Merge: 3adc2cb 64e8191
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 14:39:59 2026 -0700
+
+    Merge pull request #1 from P3nguiino/info-fill
+    
+    Info fill
+
+commit 64e81910afc0c28c9f990c8660ed14510d3f2b87
+Merge: fa485e9 3adc2cb
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 14:33:26 2026 -0700
+
+    Merge branch 'main' into info-fill
+
+commit fa485e9476f02c74f80b3e48b8b1d2cf72eb0720
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 13:51:50 2026 -0700
+
+    Fix punctuation in index.html
+    
+    Added a period at the end of the first div.
+
+commit c550f10dfa11b1980eaa92cf26bbfbdd65ec05a6
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 13:28:27 2026 -0700
+
+    Update personal information in index.html
+
+commit 3adc2cb7bf94e8f2757fdcf5feb9c09dd3cb5f54
+Author: P3nguiino <wnd042506@gmail.com>
+Date:   Fri Sep 4 11:42:31 2026 -0700
+
+    Replace placeholder text with actual details
+    
+    Updated personal information in the HTML body.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
